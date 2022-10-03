@@ -1,0 +1,21 @@
+{
+  "name": "annie-dark",
+  "displayName": "Annie Dark",
+  "description": "A Visual Studio Code theme adapted after the Discord experiment annie/dark",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "annie/dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/anniedark-color-theme.json"
+      }
+    ]
+  }
+}
