@@ -1,6 +1,16 @@
 {
   "name": "annie-dark",
-  "displayName": "Annie Dark",
+  "displayName": "annie/dark",
+  "publisher": "JackLaFond",
+  "author": {
+    "name": "Jack LaFond",
+    "email": "hi@jack.link",
+    "url": "https://jack.link"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacc/annie-dark"
+  },
   "description": "A Visual Studio Code theme adapted after the Discord experiment annie/dark",
   "version": "0.0.1",
   "engines": {
