@@ -7,7 +7,7 @@
     "email": "hi@jack.link",
     "url": "https://jack.link"
   },
-  "icon": "https://github.com/jacc/annie-dark/blob/main/annie-dark.png?raw=true",
+  "icon": "annie-dark.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/jacc/annie-dark"
