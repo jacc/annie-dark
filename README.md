@@ -1,16 +1,7 @@
-# annie-dark README
+<img align="left" width="80" height="80" src="https://raw.githubusercontent.com/jacc/annie-dark/main/annie-dark.png" alt="Icon" href='https://twitter.com/laf0nd'>
 
-## Working with Markdown
+# annie/dark
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![CleanShot 2022-10-03 at 13 20 16@2x](https://user-images.githubusercontent.com/6956351/193639357-dbb426db-4e72-4aff-88ed-822e60b0d69e.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+[Install to VSC](https://marketplace.visualstudio.com/items?itemName=JackLaFond.annie-dark)
